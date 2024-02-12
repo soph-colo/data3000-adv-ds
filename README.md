@@ -6,3 +6,5 @@ Timeline:
 
 - 1/31: Exploring what is available in the set.
 
+- 2/12: New prof. change in focus incoming. Will probably continue these on my own.
+
