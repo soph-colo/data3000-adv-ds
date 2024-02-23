@@ -8,3 +8,5 @@ Timeline:
 
 - 2/12: New prof. change in focus incoming. Will probably continue these on my own.
 
+- 2/23: Will be exploring the world of AI Influcners. 
+
