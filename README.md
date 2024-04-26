@@ -2,13 +2,9 @@
 for my advanced data science class (spring 2024)
 
 
-Timeline:
+Instructions:
 
-- 1/31: Exploring what is available in the set.
-
-- 2/12: New prof. change in focus incoming. Will probably continue these on my own.
-
-- 2/23: Will be exploring the world of AI Influcners.
-
-- 4/6: Done with preprocessing. Working on models.
-
+1. Navigate to final/chatgpt-influencer
+   - in here, you will a folder containing data, and a folder containing notebooks
+   - in data/raw, the raw ChatGPT generated influeners csv is stored
+2. Open notebooks, and open datacleaning.ipynb...
