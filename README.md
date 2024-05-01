@@ -20,4 +20,4 @@ instructions:
    - here, the notebook will take the clean and engineered data and split and normalize it, train it and make predictions off of it, and then output some measures to assess it's accuracy
    - note: there will be an additional dataframe that is saved to the processed data folder containing the coefficients of the model's equation
 4. navigate to notebooks/data_analysis
-   - here, the notebook will just display an assortment of plots that will sgiw the relationship between one isolated variable and the yearly income
+   - here, the notebook will just display an assortment of plots that will show the relationship between one isolated variable and the yearly income
